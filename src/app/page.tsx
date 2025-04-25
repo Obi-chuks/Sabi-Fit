@@ -26,7 +26,7 @@ const HomePage = () => {
                   <span className="text-foreground">Let AI Build</span>
                 </div>
                 <div className="pt-2">
-                  <span className="text-foreground">Your</span>
+                  <span className="text-foreground">Your </span>
                   <span className="text-primary">Perfect Body Plan.</span>
                 </div>
               </h1>
